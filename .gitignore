@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 用户生成的临时产物（包含真实测试音频，不要入库）
+generated/
+
+# 大体积示例（all/ 下 318 个 MP3 ≈ 5.5MB；保留顶层少量 demo 即可）
+# 如果想完全排除示例音频，取消下一行注释：
+# edge-tts-samples/all/
+
+# 系统
+Thumbs.db
