@@ -61,6 +61,8 @@ pip install edge-tts
 ### 3. 打开前端
 
 浏览器打开 `edge-tts-preview.html`（建议 Chrome / Edge），点击「加载音色」即可试听。
+<img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/bf48258d-6b57-4cf7-88f8-e28ba951e1e9" />
+
 
 ## API 简表
 
